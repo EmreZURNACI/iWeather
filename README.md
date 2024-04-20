@@ -10,7 +10,7 @@ Bu proje, dünya genelindeki şehirlerin veya kullanıcının bulunduğu konumun
 
 ## Demo
 
-[link](https://i-weather-delta.vercel.app/)
+[https://i-weather-delta.vercel.app/](https://i-weather-delta.vercel.app/)
  
 ## Kullanılan Teknolojiler
 
