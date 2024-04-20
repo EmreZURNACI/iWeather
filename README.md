@@ -1,11 +1,10 @@
+# React Staj Mülakat Projesi: Hava Durumu Uygulaması
+
+Bu proje, dünya genelindeki şehirlerin veya kullanıcının bulunduğu konumun güncel hava durumu verilerini kolayca elde etmelerini sağlayan bir uygulamadır. Kullanıcılar, istedikleri şehri arayabilir veya GPS üzerinden mevcut konumlarını otomatik olarak alabilirler.
 
 ## Teşekkür
 
 - [@ozcanzaferayan](https://www.github.com/ozcanzaferayan)  bu projede çalışma fırsatı verdiğiniz için 
-
-# React Staj Mülakat Projesi: Hava Durumu Uygulaması
-
-Bu proje, dünya genelindeki şehirlerin veya kullanıcının bulunduğu konumun güncel hava durumu verilerini kolayca elde etmelerini sağlayan bir uygulamadır. Kullanıcılar, istedikleri şehri arayabilir veya GPS üzerinden mevcut konumlarını otomatik olarak alabilirler.
 
 
 ## Demo
